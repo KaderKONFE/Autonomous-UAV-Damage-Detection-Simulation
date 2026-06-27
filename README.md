@@ -3,7 +3,7 @@
 This repository contains the software architecture for an autonomous UAV simulation designed to detect structural cracks on building columns after an earthquake.
 
 ## Tech Stack
-* **OS:**Linux Ubuntu
+* **OS:** Linux Ubuntu
 * **Middleware:** ROS 2
 * **Flight Controller:** PX4 Autopilot
 * **Simulator:** Gazebo
